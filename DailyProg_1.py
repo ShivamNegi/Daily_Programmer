@@ -3,9 +3,9 @@ no = no.split()
 
 for n in no:
     j = no.count(n)
-    while j>1:
+    while j > 1:
         no.remove(n)
-        j-=1
+        j -= 1
 
 no.sort()
 print no
