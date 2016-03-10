@@ -1,4 +1,4 @@
-# Daily_Programmer
+### Daily_Programmer
 It is a subreddit dedicated to coding. Here, people as a community solve problems and post their solutions. This way we can pick up a lot of new tricks and new languages on the go.
 
 http://www.reddit.com/r/dailyprogrammer/
